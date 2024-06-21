@@ -1,5 +1,5 @@
 # study
-건국대학교 컴퓨터공학부 알고리즘 동아리 AlKon에서 진행한 2학기 세미나 자료입니다.  
+건국대학교 컴퓨터공학부 알고리즘 동아리 AlKon에서 진행한 2023-2 세미나 자료입니다.  
 <br>
 ## 초급반
 <strong><a href=https://solved.ac>solved.ac</a></strong>의 Class 2 부터 Class 4까지를 목표로 기초적인 알고리즘을 학습합니다.
